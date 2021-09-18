@@ -1,5 +1,6 @@
 import sys
 sys.setrecursionlimit(10**4)
+
 def find_fib_pos(n):
     '''Takes a fibonacci number and returns
         the nth number of the fibonacci number'''
